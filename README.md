@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 
 ### Hi there.👋 &nbsp;I'm Java Backend Developer.😄
 
+현재 진행중인 프로젝트
+
+1. 헬로마켓 클론코딩
+https://github.com/jikimee64/SpringBoot-Restful-API
+
+2. 비영리 동아리 웹 사이트
+https://github.com/J2KB/CODEV21-BACK
+
 ![jikimee64's github stats](https://github-readme-stats.vercel.app/api?username=jikimee64&show_icons=true)
