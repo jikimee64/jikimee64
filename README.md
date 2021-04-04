@@ -21,4 +21,10 @@ Here are some ideas to get you started:
 1. 헬로마켓 클론코딩
 https://github.com/jikimee64/SpringBoot-Restful-API
 
+2. 단축 URL 클론코딩
+https://github.com/jikimee64/url-shortener
+
 ![jikimee64's github stats](https://github-readme-stats.vercel.app/api?username=jikimee64&show_icons=true)
+
+
+
