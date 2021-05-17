@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 현재 진행중인 프로젝트
 
-1. 헬로마켓 클론코딩
-https://github.com/jikimee64/SpringBoot-Restful-API
+1. 멀티모듈 기반 프로젝트 진행을 위한 사전 준비
+https://github.com/jikimee64/multi-module-baseTemplate
 
 2. 단축 URL 클론코딩
 https://github.com/jikimee64/url-shortener
