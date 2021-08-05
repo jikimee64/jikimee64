@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 ### Hi there.👋 &nbsp;I'm Java Backend Developer.😄
 
-현재 진행중인 프로젝트
+현재 진행중인 작업
 
-1. 멀티모듈 기반 프로젝트 진행을 위한 사전 준비
-https://github.com/jikimee64/multi-module-baseTemplate
+1. realworld backend project 기반 커스텀 프로젝트
+https://github.com/jikimee64/realworld-springboot-java
 
-2. 단축 URL 클론코딩
-https://github.com/jikimee64/url-shortener
+2. NEXTSTEP 자바 플레이 그라운드 with TDD, 클린코드
+- 숫자야구 : https://github.com/jikimee64/java-baseball-playground
 
 ![jikimee64's github stats](https://github-readme-stats.vercel.app/api?username=jikimee64&show_icons=true)
 
