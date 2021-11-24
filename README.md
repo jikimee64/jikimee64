@@ -23,8 +23,10 @@ https://github.com/jikimee64/realworld-springboot-java
 
 2. NEXTSTEP 자바 플레이 그라운드 with TDD, 클린코드
 - 숫자야구 : https://github.com/jikimee64/java-baseball-playground
+- 자동차 경주 : https://github.com/jikimee64/java-racingcar-playground
 
 ![jikimee64's github stats](https://github-readme-stats.vercel.app/api?username=jikimee64&show_icons=true)
+
 
 
 
