@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 현재 진행중인 작업
 
 1. mini commerce
-https://github.com/jikimee64/mini-ecommerce
+- mini commerce : https://github.com/jikimee64/mini-ecommerce
 
 2. NEXTSTEP 자바 플레이 그라운드 with TDD, 클린코드
 - 숫자야구 : https://github.com/jikimee64/java-baseball-playground
