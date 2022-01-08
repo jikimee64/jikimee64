@@ -18,18 +18,13 @@ Here are some ideas to get you started:
 
 현재 진행중인 작업
 
-1. mini commerce
-- mini commerce : https://github.com/jikimee64/mini-ecommerce
+1. Anynoti-backend
+- mini commerce : https://github.com/jikimee64/Anynoti-backend
 
-2. NEXTSTEP 자바 플레이 그라운드 with TDD, 클린코드
-- 숫자야구 : https://github.com/jikimee64/java-baseball-playground
-- 자동차 경주 : https://github.com/jikimee64/java-racingcar-playground
+2. Jichul-cs-study
+- mini commerce : https://github.com/jikimee64/Jichul-cs-study
 
 3. 우테코 4기 프리코스
 - 자판기 : https://github.com/jikimee64/java-vendingmachine-precourse
 
 ![jikimee64's github stats](https://github-readme-stats.vercel.app/api?username=jikimee64&show_icons=true)
-
-
-
-
