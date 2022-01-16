@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 현재 진행중인 작업
 
 1. Anynoti-backend
-- mini commerce : https://github.com/jikimee64/Anynoti-backend
+- https://github.com/jikimee64/Anynoti-backend
 
 2. Jichul-cs-study
-- mini commerce : https://github.com/jikimee64/Jichul-cs-study
+- https://github.com/jikimee64/Jichul-cs-study
 
 3. 우테코 4기 프리코스
 - 자판기 : https://github.com/jikimee64/java-vendingmachine-precourse
