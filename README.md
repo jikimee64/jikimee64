@@ -24,7 +24,4 @@ Here are some ideas to get you started:
 2. Jichul-cs-study
 - https://github.com/jikimee64/Jichul-cs-study
 
-3. 우테코 4기 프리코스
-- 자판기 : https://github.com/jikimee64/java-vendingmachine-precourse
-
 ![jikimee64's github stats](https://github-readme-stats.vercel.app/api?username=jikimee64&show_icons=true)
