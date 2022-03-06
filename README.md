@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 
 현재 진행중인 작업
 
-1. Anynoti-backend
-- https://github.com/jikimee64/Anynoti-backend
-
-2. Jichul-cs-study
+1. Jichul-cs-study
 - https://github.com/jikimee64/Jichul-cs-study
 
 ![jikimee64's github stats](https://github-readme-stats.vercel.app/api?username=jikimee64&show_icons=true)
