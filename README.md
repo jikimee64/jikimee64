@@ -1,4 +1,4 @@
-
+-
 <!--
 **jikimee64/jikimee64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 현재 진행중인 작업
 
-1. free-cs-study
-- https://github.com/jikimee64/free-cs-study
+1. 비사이드 11기 Backend
+- https://github.com/bsideproject/palette-eureka-server
+- https://github.com/bsideproject/palette-api-server
+- https://github.com/bsideproject/palette-gateway-server
 
 ![jikimee64's github stats](https://github-readme-stats.vercel.app/api?username=jikimee64&show_icons=true)
