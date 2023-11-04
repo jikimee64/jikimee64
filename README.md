@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 현재 진행중인 작업
 
-1. 비사이드 11기 Backend
-- https://github.com/bsideproject/palette-eureka-server
-- https://github.com/bsideproject/palette-api-server
-- https://github.com/bsideproject/palette-gateway-server
+1. TDD, 클린 코드 with Java 17기
+- 2023-10-30 ~ 2023-12-14
 
 ![jikimee64's github stats](https://github-readme-stats.vercel.app/api?username=jikimee64&show_icons=true)
