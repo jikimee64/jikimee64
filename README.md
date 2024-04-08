@@ -23,4 +23,4 @@ Linkedin : https://www.linkedin.com/in/woocheol-kim-b82321244
 Blog : https://dncjf64.tistory.com  
 
 ### 경력  
-- Embrace. 2021.04 ~ 
+- Embrace. 2021.04 ~ 2024.04
