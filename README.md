@@ -24,3 +24,4 @@ Blog : https://dncjf64.tistory.com
 
 ### 경력  
 - Embrace. 2021.04 ~ 2024.04
+- SmileLab. 2024.07 ~
